@@ -1,0 +1,14 @@
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\bin\Debug\net7.0\PokerGame.exe
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\bin\Debug\net7.0\PokerGame.deps.json
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\bin\Debug\net7.0\PokerGame.runtimeconfig.json
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\bin\Debug\net7.0\PokerGame.dll
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\bin\Debug\net7.0\PokerGame.pdb
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.AssemblyInfoInputs.cache
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.AssemblyInfo.cs
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.csproj.CoreCompileInputs.cache
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.dll
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\refint\PokerGame.dll
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.pdb
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\PokerGame.genruntimeconfig.cache
+E:\Code\Bootcamp Fmlx\Poker-Game\PokerGame\obj\Debug\net7.0\ref\PokerGame.dll
